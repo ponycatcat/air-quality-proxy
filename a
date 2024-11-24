@@ -1,0 +1,7 @@
+echo“#air-quality-proxy”>>README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git分支-M main 
+git最後增加原點https://github.com /ponycatcat/ air-品質代理.git
+ git push -u origin main
